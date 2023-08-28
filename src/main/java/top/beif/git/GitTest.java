@@ -15,5 +15,8 @@ public class GitTest {
         System.out.println("hot-fix.main5");
         System.out.println("push test");
         System.out.println("push test");
+        System.out.println("push test");
+        System.out.println("push test");
+        System.out.println("push test");
     }
 }
